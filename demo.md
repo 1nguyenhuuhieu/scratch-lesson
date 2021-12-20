@@ -11,8 +11,14 @@
 
 ## NỘI DUNG:
 - 02 - 03:	Review nội dung chính của buổi học
-- 03 - 05:	Demo [sản phẩm mèo đuổi chuột](https://scratch.mit.edu/projects/590459962).
+- 03 - 07:	Demo [sản phẩm mèo đuổi chuột](https://scratch.mit.edu/projects/590459962).
 
 > Hỏi các học viên: Đây là 1 video hoạt hình hay gì? Gợi ý bằng sự ngẫu nhiên và lặp lại
 
 > Giới thiệu rằng đây là kết quả khi chạy một chương trình Scratch. Scratch là một ngôn ngữ lập trình dùng để học tập, nó có thể giúp các bạn tạo ra game, đoạn hoạt hình hoặc có thể là bất kì thứ gì các bạn tưởng tượng ra, và khóa học này chúng ta sẽ sử dụng Scratch để học trước khi tới với những ngôn ngữ lập trình khó hơn.
+
+- 07 - 09:	Giải đố câu hỏi 1 về vị trí.
+
+			Trường học của con ở đâu?
+
+		
