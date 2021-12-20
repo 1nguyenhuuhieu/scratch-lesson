@@ -15,4 +15,4 @@
 
 > Hỏi các học viên: Đây là 1 video hoạt hình hay gì? Gợi ý bằng sự ngẫu nhiên và lặp lại
 
-> Giới thiệu rằng đây là kết quả khi chạy một chương trình Scratch. Scratch là một ngôn ngữ lập trình có thể giúp các bạn tạo ra game, đoạn hoạt hình và bất kì thứ gì có thể tưởng tượng ra, và khóa học này chúng ta sẽ sử dụng Scratch để học về lập trình
+> Giới thiệu rằng đây là kết quả khi chạy một chương trình Scratch. Scratch là một ngôn ngữ lập trình có thể giúp các bạn tạo ra game, đoạn hoạt hình hoặc có thể là bất kì thứ gì các bạn tưởng tượng ra, và khóa học này chúng ta sẽ sử dụng Scratch để học về lập trình
