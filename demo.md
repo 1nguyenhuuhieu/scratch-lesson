@@ -29,6 +29,6 @@
 
 - 15 - 17: Giải đố câu hỏi 3. **Review khái niệm rẽ nhánh**
 
-> Nếu a thì b, đánh vào sự tò mò, chúng ta sẽ tìm hiểu kỹ hơn ở bài sau.
+> Tương tác với học viên. Nếu a thì b, đánh vào sự tò mò, chúng ta sẽ tìm hiểu kỹ hơn ở bài sau.
 
 		
