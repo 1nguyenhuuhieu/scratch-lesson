@@ -21,6 +21,6 @@
 
 			Trường học của con ở đâu?
 
-> Đọc đúng địa chỉ trường học, nhờ có vị trí này mà thầy có thể tới trường thăm con dù trước đó chưa từng đến đó
+> Đọc đúng địa chỉ trường học, nhờ có vị trí này mà ông già noel có thể tới trường tặng quà cho con dù trước đó chưa từng đến đó, sắp noel rồi đúng không?
 
 		
