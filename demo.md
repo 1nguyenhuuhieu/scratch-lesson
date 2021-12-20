@@ -9,7 +9,7 @@
   
 		    Tổng học viên: 10; Đã có mặt: 9; Thiếu: 1
 
-## NỘI DUNG:
+## LÝ THUYẾT:
 - 02 - 03:	Review nội dung chính của buổi học
 - 03 - 07:	Demo [sản phẩm mèo đuổi chuột](https://scratch.mit.edu/projects/590459962).
 
@@ -31,4 +31,16 @@
 
 > Tương tác với học viên. Nếu a thì b, đánh vào sự tò mò, chúng ta sẽ tìm hiểu kỹ hơn ở bài sau.
 
-		
+## THỰC HÀNH:
+
+- 17 - 19: Câu lệnh rẽ nhánh
+
+> khái niệm IF THEN ELSE mà hầu như bất kì ngôn ngữ lập trình nào cũng có
+
+- 19 - 22: Câu lệnh sự kiện
+
+> Sử dụng lại ví dụ từ giải đố câu hỏi 3 ở phần lý thuyết
+
+
+## TỔNG KẾT
+
