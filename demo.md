@@ -17,7 +17,7 @@
 
 > Giới thiệu rằng đây là kết quả khi chạy một chương trình Scratch. Scratch là một ngôn ngữ lập trình dùng để học tập, nó có thể giúp các bạn tạo ra game, đoạn hoạt hình hoặc có thể là bất kì thứ gì các bạn tưởng tượng ra, và khóa học này chúng ta sẽ sử dụng Scratch để học trước khi tới với những ngôn ngữ lập trình khó hơn.
 
-- 07 - 09:	Giải đố câu hỏi 1 về vị trí.
+- 07 - 09:	Giải đố câu hỏi 1 về vị trí. **Kết hợp để tương tác với học viên, note thông tin các bạn lại để sử dụng trong các buổi học tiếp theo để tạo sự thân thiện**
 
 			Trường học của con ở đâu?
 
