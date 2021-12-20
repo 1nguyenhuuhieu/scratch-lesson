@@ -5,7 +5,8 @@
 - Hình thức: Online
 ---
 ## CHUẨN BỊ:
-- 00 - 02:	Kiểm tra âm thanh và hình ảnh của host tới client, điểm danh nhanh số lượng học viên, phổ biến nội quy lớp học
+- 00 - 02:	Kiểm tra âm thanh và hình ảnh của host tới client, điểm danh nhanh số lượng học viên, phổ biến nội quy lớp học.
+  
 		    Tổng học viên: 10; Đã có mặt: 9; Thiếu: 1
 
 ## NỘI DUNG:
