@@ -23,4 +23,8 @@
 
 > Đọc đúng địa chỉ trường học, nhờ có vị trí này mà ông già noel có thể tới trường tặng quà cho con dù trước đó chưa từng đến đó, sắp noel rồi đúng không?
 
+- 09 - 15: Giới thiệu giao diện Scratch
+
+> Thực hiện thao tác để mèo di chuyển tới tọa độ (150; 100). Giải thích về trục x và trục y, tọa độ trên giao diện của Scratch. Kéo thả mèo vào vị trí bất kì để xem tọa độ thay đổi thế nào. Thực hiện goto tới vị trí ngoài backdrops và giải thích cho các bạn nhỏ hiểu.
+
 		
