@@ -13,4 +13,4 @@
 - 02 - 03:	Review nội dung chính của buổi học
 - 03 - 05:	Demo [sản phẩm mèo đuổi chuột](https://scratch.mit.edu/projects/590459962).
 
-Hỏi các học viên: Đây là 1 video hoạt hình hay gì?, gợi ý bằng sự ngẫu nhiên và lặp lại
+> Hỏi các học viên: Đây là 1 video hoạt hình hay gì? Gợi ý bằng sự ngẫu nhiên và lặp lại
