@@ -19,6 +19,6 @@
 
 - 07 - 09:	Giải đố câu hỏi 1 về vị trí.
 
-			***Trường học của con ở đâu?***
+			Trường học của con ở đâu?
 
 		
