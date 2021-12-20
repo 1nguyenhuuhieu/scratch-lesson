@@ -1,5 +1,5 @@
 # Kế hoạch giảng dạy
-- Tên bài giảng: GE.Coding.Demo giảng dạy
+- Tên bài giảng: [GE.Coding.Demo giảng dạy](https://docs.google.com/presentation/d/1mAxgSDydyOz54f-2kBsYKJe3H3UCHt8AzUmKD9SVhHw/edit#slide=id.p5)
 - Thời lượng bài giảng: 25 phút
 - Người tạo: Nguyễn Hữu Hiếu
 - Hình thức: Online
