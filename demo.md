@@ -44,6 +44,7 @@
 
 ## TỔNG KẾT
 
+- 23 - 25:
 > Đưa ra bài luyện tập để buổi sau kiểm tra.
 
 			Viết đoạn scratch điều khiển mèo tới vị trí bất kì, nếu gặp tọa độ (90, 60) thì mèo sẽ xoay vòng tròn. (mục đích để buổi sau dạy về vòng lặp)
